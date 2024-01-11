@@ -1,0 +1,115 @@
+[
+  {
+    "patientID": "1",
+    "patientName": "Daniel Theuri James",
+    "patientAge": "23",
+    "sex": "M",
+    "bloodType": "A+",
+    "phone": "0710101010",
+    "medicalRecords": [
+      {
+        "id": "ad6802b7-ab5d-4ab2-aba6-f8e21a637409",
+        "date": "Sat Feb 25 2023",
+        "title": "Ailment 2",
+        "sessionnotes": "Too much pain",
+        "prescription": "Panadol four times a day"
+      },
+      {
+        "id": "e274b6a2-9ee3-4bb5-b17d-0ae8b0bf71fb",
+        "date": "Sat Feb 25 2023",
+        "title": "Annual Check up",
+        "sessionnotes": "Patient appears to be in good health",
+        "prescription": "No prescription"
+      },
+      {
+        "id": "343b35dc-4e5c-4b7b-aa15-258b23716893",
+        "date": "Sat Feb 25 2023",
+        "title": "Pain",
+        "sessionnotes": "Pain",
+        "prescription": "Panadol"
+      },
+      {
+        "id": "21164aac-fc3f-48ce-b1cf-c618a03f0b93",
+        "date": "Sat Feb 25 2023",
+        "title": "So much Pain",
+        "sessionnotes": "Pain",
+        "prescription": "Panadol"
+      }
+    ]
+  },
+  {
+    "patientID": "2",
+    "patientName": "Kendi Anyika",
+    "patientAge": "22",
+    "sex": "F",
+    "bloodType": "A+",
+    "phone": "0730303030",
+    "medicalRecords": [
+      {
+        "id": "a498005d-ec48-4da5-8b7b-afe85179ecba",
+        "date": "Sat Feb 25 2023",
+        "title": "Cancer",
+        "sessionnotes": "Patient is terminally ill. Tumors in heart and liver. Only 6 months to live",
+        "prescription": "Chemotherapy. Say goodbye to loved ones. \r\n"
+      }
+    ]
+  },
+  {
+    "patientID": "3",
+    "patientName": "Alexis Obel",
+    "patientAge": "21",
+    "sex": "F",
+    "bloodType": "A+",
+    "phone": "0740404040",
+    "medicalRecords": [
+      {
+        "id": "cea69c71-800c-4bd8-bc9d-7f15fb359fc6",
+        "date": "Fri Feb 24 2023",
+        "title": "Chronic Fatigue",
+        "sessionnotes": "The patient is extremely exhausted",
+        "prescription": "Panadol"
+      },
+      {
+        "id": "a498005d-ec48-4da5-8b7b-afe85179ecba",
+        "date": "Sat Feb 25 2023",
+        "title": "Headache",
+        "sessionnotes": "The patient is in pain",
+        "prescription": "Panadol"
+      }
+    ]
+  },
+  {
+    "patientID": "94e2f2a4-4328-493b-a35b-9c5fdbcbc683",
+    "patientName": "Harriet Tubman",
+    "patientAge": "203",
+    "sex": "F",
+    "bloodType": "O+",
+    "phone": "0720202020",
+    "medicalRecords": [
+      {
+        "id": "271fc025-1572-4301-8aa9-edbf0ce9c5eb",
+        "date": "Sat Feb 25 2023",
+        "title": "Pain",
+        "sessionnotes": "Pain a lot\r\n",
+        "prescription": "Panadol"
+      }
+    ]
+  },
+  {
+    "patientID": "b9325ea0-91be-4b32-91dd-7df5be53c94c",
+    "patientName": "Ann",
+    "patientAge": "25",
+    "sex": "F",
+    "bloodType": "A+",
+    "phone": "0700112233",
+    "medicalRecords": [
+      {
+        "id": "561ce7e8-f7e5-44bb-be3a-1d2b47e7ac12",
+        "date": "Sat Feb 25 2023",
+        "title": "Pain",
+        "sessionnotes": "A lot of pain",
+        "prescription": "Panadol"
+      }
+    ]
+  }
+]
