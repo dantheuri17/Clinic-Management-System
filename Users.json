@@ -1,13 +1,13 @@
 [
     {
-        "username": "kendianyika",
-        "name": "Kendi",
+        "username": "johndoe",
+        "name": "John",
         "password": "1234",
         "role": "Doctor"
     },
     {
-        "username": "alexisobel",
-        "name": "Alexis",
+        "username": "janedoe",
+        "name": "Jane",
         "password": "12345",
         "role": "Doctor"
     },
