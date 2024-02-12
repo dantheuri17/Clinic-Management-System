@@ -23,14 +23,16 @@ Login page
 
 Here a doctor or receptionist can enter their relevant credentials and access their respective pages.
 
-![loginPage](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/1673eea2-4531-4421-97c1-dda7e4e3aed6)
+![image](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/87f682a7-a16b-4460-a15b-a9698c705e3b)
+
 
 
 Doctors Dashboard
 
 This page allows the doctor to see a comprehensive list of their patients. By clicking the view button they can see more indepth information about each patient
 
-![doctorDashboard](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/a8ac5c73-9f33-45c7-b433-90098df3110a)
+![image](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/89f1214c-96ff-49e7-816f-e3d576fad526)
+
 
 
 Patient page- upon selecting a patient record
@@ -49,11 +51,13 @@ Receptionist page
 
 Upon logging in as a receptionist, this is where a user is directed. They can view existing patients registered at the clinic, add new ones or edit/delete existing ones.
 
-![receptionDashboard](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/b80207f1-b0cd-40aa-a8f3-ac9386e1c490)
+![image](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/352282f8-85f4-4378-8912-6b5e543635d6)
+
 
 
 The below image shows the receptionist's form when adding a new patient record or editing an existing one
 
-![editFormReceptionPage](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/5324e9c5-e2ae-4ad4-9114-a82921484a85)
+![image](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/acb4639e-72ee-456f-878a-e4d2a86df66d)
+
 
 
