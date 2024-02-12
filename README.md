@@ -1,19 +1,6 @@
 This is a web application intended to assist with the day to day activities in a small clinic. It contains both a doctor side and a receptionist side. The doctor is able to take medical notes on their patients, access the history of their notes at any time as well as make edits or delete the records all together. The recptionist on the other hand is able to register new patients and access the relevant information of existing patients.
 Contributors
 
-This is a group project involving
-
-    Kendi Anyika
-    Daniel Theuri
-    Alexis Obel
-
-My Role
-
-My roles in this project were as follows
-
-    UI/UX design using Figma
-    Front-end development as part of the Front-end team
-    Back end development as half of the team.
 
 Tools and Languages
 
