@@ -16,7 +16,8 @@ Landing page
 
 This is the first page the user lands on
 
-![landingPage](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/c0e4dd43-30af-4243-8eab-3773df2674ea)
+![image](https://github.com/dantheuri17/Clinic-Management-System/assets/101451951/84a86abb-6ccc-4963-b569-06aa360a2c22)
+
 
 Login page
 
